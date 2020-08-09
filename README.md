@@ -9,6 +9,6 @@
 
 <b>2. Project Machine Learning with Python: Building Recommender System</b>
 
-![image](https://user-images.githubusercontent.com/68532033/89726218-3def2180-da42-11ea-9405-5e85b7b355a3.png)
+![image](https://user-images.githubusercontent.com/68532033/89726248-8c9cbb80-da42-11ea-9dea-04fd64a87c5e.png)
 
 <a href="https://academy.dqlab.id/certificate/pdf/DQLABPRJC5HRTGFD" target="_blank">Unduh</a> 
