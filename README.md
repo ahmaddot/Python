@@ -1,4 +1,4 @@
-<h1>Certificate List</h1>
+<h1>Certificate List DQ Lab</h1>
 
 
 <b>1. Data Science Challenge with Python</b>
